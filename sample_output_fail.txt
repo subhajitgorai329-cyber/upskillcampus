@@ -1,0 +1,95 @@
+##################################################
+#            PYTHON QUIZ GAME PROJECT           #
+##################################################
+Enter your name: 
+==================================================
+  Welcome, Priya Sharma! Let's test your knowledge.
+  You will be asked 10 multiple-choice questions.
+  Answer each question by typing A, B, C, or D.
+==================================================
+
+Q1. Who is known as the father of computers?
+   A) Charles Babbage
+   B) Alan Turing
+   C) Isaac Newton
+   D) Albert Einstein
+Your answer (A/B/C/D): Invalid input! Please enter only A, B, C, or D.
+
+Your answer (A/B/C/D): Correct!
+
+Q2. Which of the following is NOT a programming language?
+   A) Python
+   B) Java
+   C) HTML
+   D) C++
+Your answer (A/B/C/D): Incorrect! The correct answer was C) HTML
+
+Q3. What is the file extension used for Python files?
+   A) .pyt
+   B) .py
+   C) .pt
+   D) .pyth
+Your answer (A/B/C/D): Invalid input! Please enter only A, B, C, or D.
+
+Your answer (A/B/C/D): Correct!
+
+Q4. Which keyword is used to define a function in Python?
+   A) function
+   B) def
+   C) func
+   D) define
+Your answer (A/B/C/D): Incorrect! The correct answer was B) def
+
+Q5. What is the capital city of India?
+   A) Mumbai
+   B) Kolkata
+   C) New Delhi
+   D) Chennai
+Your answer (A/B/C/D): Incorrect! The correct answer was C) New Delhi
+
+Q6. Which data type is used to store True/False values in Python?
+   A) int
+   B) str
+   C) bool
+   D) float
+Your answer (A/B/C/D): Incorrect! The correct answer was C) bool
+
+Q7. Which company developed the Python programming language?
+   A) Microsoft
+   B) Python Software Foundation
+   C) Google
+   D) Apple
+Your answer (A/B/C/D): Incorrect! The correct answer was B) Python Software Foundation
+
+Q8. What does CPU stand for?
+   A) Central Processing Unit
+   B) Computer Personal Unit
+   C) Central Program Utility
+   D) Central Processor Utility
+Your answer (A/B/C/D): Incorrect! The correct answer was A) Central Processing Unit
+
+Q9. Which symbol is used for comments in Python?
+   A) //
+   B) <!-- -->
+   C) #
+   D) **
+Your answer (A/B/C/D): Incorrect! The correct answer was C) #
+
+Q10. Which of these is used to store multiple items in a single variable in Python?
+   A) List
+   B) Character
+   C) Integer
+   D) Boolean
+Your answer (A/B/C/D): Incorrect! The correct answer was A) List
+
+==================================================
+  RESULT FOR PRIYA SHARMA
+==================================================
+  Score      : 2 / 10
+  Percentage : 20.0%
+  Status     : FAIL
+==================================================
+
+Do you want to play again? (Y/N): Invalid input! Please enter Y or N.
+Do you want to play again? (Y/N): 
+Thank you for playing, Priya Sharma! Goodbye.
